@@ -40,11 +40,6 @@ This project presents an interactive Power BI dashboard built using the **Sample
 
 ---
 
-### 🧠 Insight Box (Text Box)
-> *"Sales peaked in [month/year], but profitability varied across regions. Office Supplies performed better than expected in the West."*
-
----
-
 ##  Page 2: Product Performance
 
 ### 📌 Visual 1: Top 10 Sub-Categories by Sales
@@ -81,7 +76,7 @@ This project presents an interactive Power BI dashboard built using the **Sample
 
 ---
 
-## 💡 Outcome
+##  Outcome
 This Power BI dashboard demonstrates effective data visualization and storytelling by:
 - Highlighting trends in sales and profitability
 - Comparing regional and category-wise performance
@@ -89,7 +84,7 @@ This Power BI dashboard demonstrates effective data visualization and storytelli
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **Power BI Desktop**
 - **DAX** (for calculated columns like Year, Month)
 - **Power Query** (for date conversion and calculated fields)
